@@ -9,4 +9,3 @@ Bu uygulama, küçük işletmelerin stoklarını takip etmelerine yardımcı olm
 - Stok güncelleyebilme.
 - Kullanıcı dostu arayüz.
 
-**GitHub'da İncele:** [Stok Takip Uygulaması GitHub Linki](https://github.com/Mensure-Ogut/Stok_takip)
