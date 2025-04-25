@@ -1,0 +1,17 @@
+C:\Users\mensu\source\repos\Stok takip\bin\Debug\Stok takip.exe.config
+C:\Users\mensu\source\repos\Stok takip\bin\Debug\Stok takip.exe
+C:\Users\mensu\source\repos\Stok takip\bin\Debug\Stok takip.pdb
+C:\Users\mensu\source\repos\Stok takip\obj\Debug\Stok takip.csproj.AssemblyReference.cache
+C:\Users\mensu\source\repos\Stok takip\obj\Debug\Stok takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\mensu\source\repos\Stok takip\obj\Debug\Stok_takip.Satıs.resources
+C:\Users\mensu\source\repos\Stok takip\obj\Debug\Stok_takip.Müşterikayıt.resources
+C:\Users\mensu\source\repos\Stok takip\obj\Debug\Stok_takip.Properties.Resources.resources
+C:\Users\mensu\source\repos\Stok takip\obj\Debug\Stok takip.csproj.GenerateResource.cache
+C:\Users\mensu\source\repos\Stok takip\obj\Debug\Stok takip.csproj.CoreCompileInputs.cache
+C:\Users\mensu\source\repos\Stok takip\obj\Debug\Stok takip.exe
+C:\Users\mensu\source\repos\Stok takip\obj\Debug\Stok takip.pdb
+C:\Users\mensu\source\repos\Stok takip\obj\Debug\Stok_takip.Ürüngiriş.resources
+C:\Users\mensu\source\repos\Stok takip\obj\Debug\Stok_takip.FormÜrünliste.resources
+C:\Users\mensu\source\repos\Stok takip\obj\Debug\Stok_takip.Müşteri_Listesi.resources
+C:\Users\mensu\source\repos\Stok takip\obj\Debug\Stok_takip.Kategori.resources
+C:\Users\mensu\source\repos\Stok takip\obj\Debug\Stok_takip.Satışlisteleme.resources
